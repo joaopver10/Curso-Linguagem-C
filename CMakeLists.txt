@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION 3.17)
+project(Curso_Linguagem_em_C C)
+
+set(CMAKE_C_STANDARD 11)
+
+add_executable(Curso_Linguagem_em_C
+        Aula01/Aula01.c)
+
