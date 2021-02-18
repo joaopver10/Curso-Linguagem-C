@@ -1,3 +1,0 @@
-C:/Users/joaop/Documents/GitHub/Curso-Linguagem-em-C/cmake-build-debug/CMakeFiles/Curso_Linguagem_em_C.dir
-C:/Users/joaop/Documents/GitHub/Curso-Linguagem-em-C/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/joaop/Documents/GitHub/Curso-Linguagem-em-C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
