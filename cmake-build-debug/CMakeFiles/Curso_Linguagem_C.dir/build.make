@@ -76,27 +76,27 @@ include CMakeFiles/Curso_Linguagem_C.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Curso_Linguagem_C.dir/flags.make
 
-CMakeFiles/Curso_Linguagem_C.dir/Aula02/Aula02.c.obj: CMakeFiles/Curso_Linguagem_C.dir/flags.make
-CMakeFiles/Curso_Linguagem_C.dir/Aula02/Aula02.c.obj: ../Aula02/Aula02.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\joaop\Documents\GitHub\Curso-Linguagem-C\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/Curso_Linguagem_C.dir/Aula02/Aula02.c.obj"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Curso_Linguagem_C.dir\Aula02\Aula02.c.obj   -c C:\Users\joaop\Documents\GitHub\Curso-Linguagem-C\Aula02\Aula02.c
+CMakeFiles/Curso_Linguagem_C.dir/Aula03/Aula03.c.obj: CMakeFiles/Curso_Linguagem_C.dir/flags.make
+CMakeFiles/Curso_Linguagem_C.dir/Aula03/Aula03.c.obj: ../Aula03/Aula03.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\joaop\Documents\GitHub\Curso-Linguagem-C\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/Curso_Linguagem_C.dir/Aula03/Aula03.c.obj"
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Curso_Linguagem_C.dir\Aula03\Aula03.c.obj   -c C:\Users\joaop\Documents\GitHub\Curso-Linguagem-C\Aula03\Aula03.c
 
-CMakeFiles/Curso_Linguagem_C.dir/Aula02/Aula02.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Curso_Linguagem_C.dir/Aula02/Aula02.c.i"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\joaop\Documents\GitHub\Curso-Linguagem-C\Aula02\Aula02.c > CMakeFiles\Curso_Linguagem_C.dir\Aula02\Aula02.c.i
+CMakeFiles/Curso_Linguagem_C.dir/Aula03/Aula03.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Curso_Linguagem_C.dir/Aula03/Aula03.c.i"
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\joaop\Documents\GitHub\Curso-Linguagem-C\Aula03\Aula03.c > CMakeFiles\Curso_Linguagem_C.dir\Aula03\Aula03.c.i
 
-CMakeFiles/Curso_Linguagem_C.dir/Aula02/Aula02.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Curso_Linguagem_C.dir/Aula02/Aula02.c.s"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\joaop\Documents\GitHub\Curso-Linguagem-C\Aula02\Aula02.c -o CMakeFiles\Curso_Linguagem_C.dir\Aula02\Aula02.c.s
+CMakeFiles/Curso_Linguagem_C.dir/Aula03/Aula03.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Curso_Linguagem_C.dir/Aula03/Aula03.c.s"
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\joaop\Documents\GitHub\Curso-Linguagem-C\Aula03\Aula03.c -o CMakeFiles\Curso_Linguagem_C.dir\Aula03\Aula03.c.s
 
 # Object files for target Curso_Linguagem_C
 Curso_Linguagem_C_OBJECTS = \
-"CMakeFiles/Curso_Linguagem_C.dir/Aula02/Aula02.c.obj"
+"CMakeFiles/Curso_Linguagem_C.dir/Aula03/Aula03.c.obj"
 
 # External object files for target Curso_Linguagem_C
 Curso_Linguagem_C_EXTERNAL_OBJECTS =
 
-Curso_Linguagem_C.exe: CMakeFiles/Curso_Linguagem_C.dir/Aula02/Aula02.c.obj
+Curso_Linguagem_C.exe: CMakeFiles/Curso_Linguagem_C.dir/Aula03/Aula03.c.obj
 Curso_Linguagem_C.exe: CMakeFiles/Curso_Linguagem_C.dir/build.make
 Curso_Linguagem_C.exe: CMakeFiles/Curso_Linguagem_C.dir/linklibs.rsp
 Curso_Linguagem_C.exe: CMakeFiles/Curso_Linguagem_C.dir/objects1.rsp

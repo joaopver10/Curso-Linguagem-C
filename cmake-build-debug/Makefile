@@ -142,32 +142,32 @@ Curso_Linguagem_C/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_Linguagem_C.dir\build.make CMakeFiles/Curso_Linguagem_C.dir/build
 .PHONY : Curso_Linguagem_C/fast
 
-Aula02/Aula02.obj: Aula02/Aula02.c.obj
+Aula03/Aula03.obj: Aula03/Aula03.c.obj
 
-.PHONY : Aula02/Aula02.obj
+.PHONY : Aula03/Aula03.obj
 
 # target to build an object file
-Aula02/Aula02.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_Linguagem_C.dir\build.make CMakeFiles/Curso_Linguagem_C.dir/Aula02/Aula02.c.obj
-.PHONY : Aula02/Aula02.c.obj
+Aula03/Aula03.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_Linguagem_C.dir\build.make CMakeFiles/Curso_Linguagem_C.dir/Aula03/Aula03.c.obj
+.PHONY : Aula03/Aula03.c.obj
 
-Aula02/Aula02.i: Aula02/Aula02.c.i
+Aula03/Aula03.i: Aula03/Aula03.c.i
 
-.PHONY : Aula02/Aula02.i
+.PHONY : Aula03/Aula03.i
 
 # target to preprocess a source file
-Aula02/Aula02.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_Linguagem_C.dir\build.make CMakeFiles/Curso_Linguagem_C.dir/Aula02/Aula02.c.i
-.PHONY : Aula02/Aula02.c.i
+Aula03/Aula03.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_Linguagem_C.dir\build.make CMakeFiles/Curso_Linguagem_C.dir/Aula03/Aula03.c.i
+.PHONY : Aula03/Aula03.c.i
 
-Aula02/Aula02.s: Aula02/Aula02.c.s
+Aula03/Aula03.s: Aula03/Aula03.c.s
 
-.PHONY : Aula02/Aula02.s
+.PHONY : Aula03/Aula03.s
 
 # target to generate assembly for a file
-Aula02/Aula02.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_Linguagem_C.dir\build.make CMakeFiles/Curso_Linguagem_C.dir/Aula02/Aula02.c.s
-.PHONY : Aula02/Aula02.c.s
+Aula03/Aula03.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_Linguagem_C.dir\build.make CMakeFiles/Curso_Linguagem_C.dir/Aula03/Aula03.c.s
+.PHONY : Aula03/Aula03.c.s
 
 # Help Target
 help:
@@ -178,9 +178,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... Curso_Linguagem_C
-	@echo ... Aula02/Aula02.obj
-	@echo ... Aula02/Aula02.i
-	@echo ... Aula02/Aula02.s
+	@echo ... Aula03/Aula03.obj
+	@echo ... Aula03/Aula03.i
+	@echo ... Aula03/Aula03.s
 .PHONY : help
 
 
