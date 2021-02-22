@@ -74,7 +74,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/joaop/Documents/GitHub/Curso-Linguagem-C/Aula03/Aula03.c">
+		<Unit filename="C:/Users/joaop/Documents/GitHub/Curso-Linguagem-C/Aula06/Aula06.c">
 			<Option target="Curso_Linguagem_C"/>
 		</Unit>
 		<Unit filename="C:/Users/joaop/Documents/GitHub/Curso-Linguagem-C/CMakeLists.txt">

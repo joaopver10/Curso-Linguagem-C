@@ -3,4 +3,4 @@ project(Curso_Linguagem_C C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(Curso_Linguagem_C Aula03/Aula03.c)
+add_executable(Curso_Linguagem_C Aula06/Aula06.c)
