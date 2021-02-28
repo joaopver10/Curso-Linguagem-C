@@ -142,32 +142,32 @@ Curso_Linguagem_C/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_Linguagem_C.dir\build.make CMakeFiles/Curso_Linguagem_C.dir/build
 .PHONY : Curso_Linguagem_C/fast
 
-Aula06/Aula06.obj: Aula06/Aula06.c.obj
+Aula07/aula7.obj: Aula07/aula7.c.obj
 
-.PHONY : Aula06/Aula06.obj
+.PHONY : Aula07/aula7.obj
 
 # target to build an object file
-Aula06/Aula06.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_Linguagem_C.dir\build.make CMakeFiles/Curso_Linguagem_C.dir/Aula06/Aula06.c.obj
-.PHONY : Aula06/Aula06.c.obj
+Aula07/aula7.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_Linguagem_C.dir\build.make CMakeFiles/Curso_Linguagem_C.dir/Aula07/aula7.c.obj
+.PHONY : Aula07/aula7.c.obj
 
-Aula06/Aula06.i: Aula06/Aula06.c.i
+Aula07/aula7.i: Aula07/aula7.c.i
 
-.PHONY : Aula06/Aula06.i
+.PHONY : Aula07/aula7.i
 
 # target to preprocess a source file
-Aula06/Aula06.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_Linguagem_C.dir\build.make CMakeFiles/Curso_Linguagem_C.dir/Aula06/Aula06.c.i
-.PHONY : Aula06/Aula06.c.i
+Aula07/aula7.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_Linguagem_C.dir\build.make CMakeFiles/Curso_Linguagem_C.dir/Aula07/aula7.c.i
+.PHONY : Aula07/aula7.c.i
 
-Aula06/Aula06.s: Aula06/Aula06.c.s
+Aula07/aula7.s: Aula07/aula7.c.s
 
-.PHONY : Aula06/Aula06.s
+.PHONY : Aula07/aula7.s
 
 # target to generate assembly for a file
-Aula06/Aula06.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_Linguagem_C.dir\build.make CMakeFiles/Curso_Linguagem_C.dir/Aula06/Aula06.c.s
-.PHONY : Aula06/Aula06.c.s
+Aula07/aula7.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_Linguagem_C.dir\build.make CMakeFiles/Curso_Linguagem_C.dir/Aula07/aula7.c.s
+.PHONY : Aula07/aula7.c.s
 
 # Help Target
 help:
@@ -178,9 +178,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... Curso_Linguagem_C
-	@echo ... Aula06/Aula06.obj
-	@echo ... Aula06/Aula06.i
-	@echo ... Aula06/Aula06.s
+	@echo ... Aula07/aula7.obj
+	@echo ... Aula07/aula7.i
+	@echo ... Aula07/aula7.s
 .PHONY : help
 
 
