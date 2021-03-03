@@ -1,4 +1,12 @@
-//
-// Created by joaop on 02/03/2021.
-//
+#include <stdlib.h>
+#include <stdio.h>
+#include <time.h>
 
+void main(){
+
+    srand((unsigned) time(NULL));
+
+    int aleatorio = (rand() % 5) + 1;
+
+    printf("%d", aleatorio);
+}

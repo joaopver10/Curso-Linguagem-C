@@ -6,9 +6,11 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/joaop/Documents/GitHub/Curso-Linguagem-C/Aula09/aula9.c
+C:/Users/joaop/Documents/GitHub/Curso-Linguagem-C/Aula11/aula11.c
+stdlib.h
+-
 stdio.h
 -
-stdlib.h
+time.h
 -
 
