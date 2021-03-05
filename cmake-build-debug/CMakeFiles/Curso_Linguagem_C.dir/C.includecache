@@ -6,11 +6,13 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/joaop/Documents/GitHub/Curso-Linguagem-C/Aula11/aula11.c
+C:/Users/joaop/Documents/GitHub/Curso-Linguagem-C/Aula13/aula13.c
 stdlib.h
 -
 stdio.h
 -
-time.h
+locale.h
+-
+math.h
 -
 
