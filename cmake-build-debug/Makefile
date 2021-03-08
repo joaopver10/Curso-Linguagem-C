@@ -142,32 +142,32 @@ Curso_Linguagem_C/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_Linguagem_C.dir\build.make CMakeFiles/Curso_Linguagem_C.dir/build
 .PHONY : Curso_Linguagem_C/fast
 
-Aula14/aula14.obj: Aula14/aula14.c.obj
+Aula17/aula17.obj: Aula17/aula17.cpp.obj
 
-.PHONY : Aula14/aula14.obj
+.PHONY : Aula17/aula17.obj
 
 # target to build an object file
-Aula14/aula14.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_Linguagem_C.dir\build.make CMakeFiles/Curso_Linguagem_C.dir/Aula14/aula14.c.obj
-.PHONY : Aula14/aula14.c.obj
+Aula17/aula17.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_Linguagem_C.dir\build.make CMakeFiles/Curso_Linguagem_C.dir/Aula17/aula17.cpp.obj
+.PHONY : Aula17/aula17.cpp.obj
 
-Aula14/aula14.i: Aula14/aula14.c.i
+Aula17/aula17.i: Aula17/aula17.cpp.i
 
-.PHONY : Aula14/aula14.i
+.PHONY : Aula17/aula17.i
 
 # target to preprocess a source file
-Aula14/aula14.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_Linguagem_C.dir\build.make CMakeFiles/Curso_Linguagem_C.dir/Aula14/aula14.c.i
-.PHONY : Aula14/aula14.c.i
+Aula17/aula17.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_Linguagem_C.dir\build.make CMakeFiles/Curso_Linguagem_C.dir/Aula17/aula17.cpp.i
+.PHONY : Aula17/aula17.cpp.i
 
-Aula14/aula14.s: Aula14/aula14.c.s
+Aula17/aula17.s: Aula17/aula17.cpp.s
 
-.PHONY : Aula14/aula14.s
+.PHONY : Aula17/aula17.s
 
 # target to generate assembly for a file
-Aula14/aula14.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_Linguagem_C.dir\build.make CMakeFiles/Curso_Linguagem_C.dir/Aula14/aula14.c.s
-.PHONY : Aula14/aula14.c.s
+Aula17/aula17.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_Linguagem_C.dir\build.make CMakeFiles/Curso_Linguagem_C.dir/Aula17/aula17.cpp.s
+.PHONY : Aula17/aula17.cpp.s
 
 # Help Target
 help:
@@ -178,9 +178,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... Curso_Linguagem_C
-	@echo ... Aula14/aula14.obj
-	@echo ... Aula14/aula14.i
-	@echo ... Aula14/aula14.s
+	@echo ... Aula17/aula17.obj
+	@echo ... Aula17/aula17.i
+	@echo ... Aula17/aula17.s
 .PHONY : help
 
 

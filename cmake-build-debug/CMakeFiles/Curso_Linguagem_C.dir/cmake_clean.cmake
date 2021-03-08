@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Curso_Linguagem_C.dir/Aula14/aula14.c.obj"
+  "CMakeFiles/Curso_Linguagem_C.dir/Aula17/aula17.cpp.obj"
   "Curso_Linguagem_C.exe"
   "Curso_Linguagem_C.exe.manifest"
   "Curso_Linguagem_C.pdb"
@@ -7,6 +7,6 @@ file(REMOVE_RECURSE
 )
 
 # Per-language clean rules from dependency scanning.
-foreach(lang C)
+foreach(lang CXX)
   include(CMakeFiles/Curso_Linguagem_C.dir/cmake_clean_${lang}.cmake OPTIONAL)
 endforeach()
