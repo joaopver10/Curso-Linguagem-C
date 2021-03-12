@@ -142,32 +142,32 @@ Curso_Linguagem_C/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_Linguagem_C.dir\build.make CMakeFiles/Curso_Linguagem_C.dir/build
 .PHONY : Curso_Linguagem_C/fast
 
-Aula17/aula17.obj: Aula17/aula17.cpp.obj
+Aula24/aula24.obj: Aula24/aula24.c.obj
 
-.PHONY : Aula17/aula17.obj
+.PHONY : Aula24/aula24.obj
 
 # target to build an object file
-Aula17/aula17.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_Linguagem_C.dir\build.make CMakeFiles/Curso_Linguagem_C.dir/Aula17/aula17.cpp.obj
-.PHONY : Aula17/aula17.cpp.obj
+Aula24/aula24.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_Linguagem_C.dir\build.make CMakeFiles/Curso_Linguagem_C.dir/Aula24/aula24.c.obj
+.PHONY : Aula24/aula24.c.obj
 
-Aula17/aula17.i: Aula17/aula17.cpp.i
+Aula24/aula24.i: Aula24/aula24.c.i
 
-.PHONY : Aula17/aula17.i
+.PHONY : Aula24/aula24.i
 
 # target to preprocess a source file
-Aula17/aula17.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_Linguagem_C.dir\build.make CMakeFiles/Curso_Linguagem_C.dir/Aula17/aula17.cpp.i
-.PHONY : Aula17/aula17.cpp.i
+Aula24/aula24.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_Linguagem_C.dir\build.make CMakeFiles/Curso_Linguagem_C.dir/Aula24/aula24.c.i
+.PHONY : Aula24/aula24.c.i
 
-Aula17/aula17.s: Aula17/aula17.cpp.s
+Aula24/aula24.s: Aula24/aula24.c.s
 
-.PHONY : Aula17/aula17.s
+.PHONY : Aula24/aula24.s
 
 # target to generate assembly for a file
-Aula17/aula17.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_Linguagem_C.dir\build.make CMakeFiles/Curso_Linguagem_C.dir/Aula17/aula17.cpp.s
-.PHONY : Aula17/aula17.cpp.s
+Aula24/aula24.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_Linguagem_C.dir\build.make CMakeFiles/Curso_Linguagem_C.dir/Aula24/aula24.c.s
+.PHONY : Aula24/aula24.c.s
 
 # Help Target
 help:
@@ -178,9 +178,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... Curso_Linguagem_C
-	@echo ... Aula17/aula17.obj
-	@echo ... Aula17/aula17.i
-	@echo ... Aula17/aula17.s
+	@echo ... Aula24/aula24.obj
+	@echo ... Aula24/aula24.i
+	@echo ... Aula24/aula24.s
 .PHONY : help
 
 
