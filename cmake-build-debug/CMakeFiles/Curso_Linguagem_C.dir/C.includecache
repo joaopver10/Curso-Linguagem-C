@@ -6,13 +6,9 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/joaop/Documents/GitHub/Curso-Linguagem-C/Aula24/aula24.c
+C:/Users/joaop/Documents/GitHub/Curso-Linguagem-C/Aula26/aula26.c
 stdio.h
 -
-string.h
--
 stdlib.h
--
-stdbool.h
 -
 

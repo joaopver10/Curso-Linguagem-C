@@ -142,32 +142,32 @@ Curso_Linguagem_C/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_Linguagem_C.dir\build.make CMakeFiles/Curso_Linguagem_C.dir/build
 .PHONY : Curso_Linguagem_C/fast
 
-Aula24/aula24.obj: Aula24/aula24.c.obj
+Aula26/aula26.obj: Aula26/aula26.cpp.obj
 
-.PHONY : Aula24/aula24.obj
+.PHONY : Aula26/aula26.obj
 
 # target to build an object file
-Aula24/aula24.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_Linguagem_C.dir\build.make CMakeFiles/Curso_Linguagem_C.dir/Aula24/aula24.c.obj
-.PHONY : Aula24/aula24.c.obj
+Aula26/aula26.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_Linguagem_C.dir\build.make CMakeFiles/Curso_Linguagem_C.dir/Aula26/aula26.cpp.obj
+.PHONY : Aula26/aula26.cpp.obj
 
-Aula24/aula24.i: Aula24/aula24.c.i
+Aula26/aula26.i: Aula26/aula26.cpp.i
 
-.PHONY : Aula24/aula24.i
+.PHONY : Aula26/aula26.i
 
 # target to preprocess a source file
-Aula24/aula24.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_Linguagem_C.dir\build.make CMakeFiles/Curso_Linguagem_C.dir/Aula24/aula24.c.i
-.PHONY : Aula24/aula24.c.i
+Aula26/aula26.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_Linguagem_C.dir\build.make CMakeFiles/Curso_Linguagem_C.dir/Aula26/aula26.cpp.i
+.PHONY : Aula26/aula26.cpp.i
 
-Aula24/aula24.s: Aula24/aula24.c.s
+Aula26/aula26.s: Aula26/aula26.cpp.s
 
-.PHONY : Aula24/aula24.s
+.PHONY : Aula26/aula26.s
 
 # target to generate assembly for a file
-Aula24/aula24.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_Linguagem_C.dir\build.make CMakeFiles/Curso_Linguagem_C.dir/Aula24/aula24.c.s
-.PHONY : Aula24/aula24.c.s
+Aula26/aula26.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_Linguagem_C.dir\build.make CMakeFiles/Curso_Linguagem_C.dir/Aula26/aula26.cpp.s
+.PHONY : Aula26/aula26.cpp.s
 
 # Help Target
 help:
@@ -178,9 +178,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... Curso_Linguagem_C
-	@echo ... Aula24/aula24.obj
-	@echo ... Aula24/aula24.i
-	@echo ... Aula24/aula24.s
+	@echo ... Aula26/aula26.obj
+	@echo ... Aula26/aula26.i
+	@echo ... Aula26/aula26.s
 .PHONY : help
 
 
