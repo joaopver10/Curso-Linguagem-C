@@ -6,11 +6,15 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/joaop/Documents/GitHub/Curso-Linguagem-C/Aula26/aula26.cpp
+C:/Users/joaop/Documents/GitHub/Curso-Linguagem-C/Aula27/aula27.cpp
 cstdio
 -
 cstdlib
 -
 new
+-
+iostream
+-
+cstring
 -
 

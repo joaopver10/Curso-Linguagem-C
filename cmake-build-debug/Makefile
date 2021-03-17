@@ -142,32 +142,32 @@ Curso_Linguagem_C/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_Linguagem_C.dir\build.make CMakeFiles/Curso_Linguagem_C.dir/build
 .PHONY : Curso_Linguagem_C/fast
 
-Aula26/aula26.obj: Aula26/aula26.cpp.obj
+Aula27/aula27.obj: Aula27/aula27.cpp.obj
 
-.PHONY : Aula26/aula26.obj
+.PHONY : Aula27/aula27.obj
 
 # target to build an object file
-Aula26/aula26.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_Linguagem_C.dir\build.make CMakeFiles/Curso_Linguagem_C.dir/Aula26/aula26.cpp.obj
-.PHONY : Aula26/aula26.cpp.obj
+Aula27/aula27.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_Linguagem_C.dir\build.make CMakeFiles/Curso_Linguagem_C.dir/Aula27/aula27.cpp.obj
+.PHONY : Aula27/aula27.cpp.obj
 
-Aula26/aula26.i: Aula26/aula26.cpp.i
+Aula27/aula27.i: Aula27/aula27.cpp.i
 
-.PHONY : Aula26/aula26.i
+.PHONY : Aula27/aula27.i
 
 # target to preprocess a source file
-Aula26/aula26.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_Linguagem_C.dir\build.make CMakeFiles/Curso_Linguagem_C.dir/Aula26/aula26.cpp.i
-.PHONY : Aula26/aula26.cpp.i
+Aula27/aula27.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_Linguagem_C.dir\build.make CMakeFiles/Curso_Linguagem_C.dir/Aula27/aula27.cpp.i
+.PHONY : Aula27/aula27.cpp.i
 
-Aula26/aula26.s: Aula26/aula26.cpp.s
+Aula27/aula27.s: Aula27/aula27.cpp.s
 
-.PHONY : Aula26/aula26.s
+.PHONY : Aula27/aula27.s
 
 # target to generate assembly for a file
-Aula26/aula26.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_Linguagem_C.dir\build.make CMakeFiles/Curso_Linguagem_C.dir/Aula26/aula26.cpp.s
-.PHONY : Aula26/aula26.cpp.s
+Aula27/aula27.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_Linguagem_C.dir\build.make CMakeFiles/Curso_Linguagem_C.dir/Aula27/aula27.cpp.s
+.PHONY : Aula27/aula27.cpp.s
 
 # Help Target
 help:
@@ -178,9 +178,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... Curso_Linguagem_C
-	@echo ... Aula26/aula26.obj
-	@echo ... Aula26/aula26.i
-	@echo ... Aula26/aula26.s
+	@echo ... Aula27/aula27.obj
+	@echo ... Aula27/aula27.i
+	@echo ... Aula27/aula27.s
 .PHONY : help
 
 
