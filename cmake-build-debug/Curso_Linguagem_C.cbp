@@ -80,7 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/joaop/Documents/GitHub/Curso-Linguagem-C/Aula30/aula30.cpp">
+		<Unit filename="C:/Users/joaop/Documents/GitHub/Curso-Linguagem-C/Aula33/aula33.cpp">
 			<Option target="Curso_Linguagem_C"/>
 		</Unit>
 		<Unit filename="C:/Users/joaop/Documents/GitHub/Curso-Linguagem-C/CMakeLists.txt">

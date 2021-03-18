@@ -6,11 +6,13 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/joaop/Documents/GitHub/Curso-Linguagem-C/Aula30/aula30.cpp
+C:/Users/joaop/Documents/GitHub/Curso-Linguagem-C/Aula31/aula31.cpp
 fstream
 -
 string
 -
 iostream
+-
+new
 -
 

@@ -3,4 +3,4 @@ project(Curso_Linguagem_C C CXX)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(Curso_Linguagem_C Aula30/aula30.cpp)
+add_executable(Curso_Linguagem_C Aula33/aula33.cpp)

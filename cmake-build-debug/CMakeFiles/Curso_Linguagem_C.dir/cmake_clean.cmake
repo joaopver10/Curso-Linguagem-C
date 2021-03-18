@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Curso_Linguagem_C.dir/Aula30/aula30.cpp.obj"
+  "CMakeFiles/Curso_Linguagem_C.dir/Aula33/aula33.cpp.obj"
   "Curso_Linguagem_C.exe"
   "Curso_Linguagem_C.exe.manifest"
   "Curso_Linguagem_C.pdb"
